@@ -2,6 +2,10 @@
 body{
     text-align: center;
 }
+p{
+    font-weight: bold;
+    color: #666;
+}
 input {
 	cursor:pointer;/*カーソルをポインターに*/
 	-webkit-appearance: none;/*iOS Safariのデフォルトスタイルをクリア*/
