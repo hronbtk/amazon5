@@ -1,4 +1,7 @@
 @charset 'UTF-8';
+body{
+    text-align: center;
+}
 input {
 	cursor:pointer;/*カーソルをポインターに*/
 	-webkit-appearance: none;/*iOS Safariのデフォルトスタイルをクリア*/
